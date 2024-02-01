@@ -8,6 +8,7 @@
     "backend",
     "course"
   ],
+  "license": "AGPL-3.0",
   "dependencies": {
     "express": "^4.14.0"
   },
@@ -17,6 +18,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://replit.com/@sereuca/boilerplate-npm?v=1"
+    "url": "https://replit.com/@sereuca/boilerplate-npm?v=1",
+    "type": "github",
+    "url": "https://github.com/sergioeugenio/boilerplate-npm",
+    "url-test": "https://rhscvx-3000.csb.app/"
   }
 }
