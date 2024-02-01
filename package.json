@@ -2,6 +2,12 @@
   "name": "fcc-learn-npm-package-json",
   "author": "Sergio Eugenio Castilla",
   "description": "Prácticas de FreeCodeCamp Back End Development course",
+  "keywords": [
+    "freecodecamp",
+    "javascript",
+    "backend",
+    "course"
+  ],
   "dependencies": {
     "express": "^4.14.0"
   },
