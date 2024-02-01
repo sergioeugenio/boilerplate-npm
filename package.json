@@ -18,8 +18,6 @@
     "start": "node server.js"
   },
   "repository": {
-    "type": "git",
-    "url": "https://replit.com/@sereuca/boilerplate-npm?v=1",
     "type": "github",
     "url": "https://github.com/sergioeugenio/boilerplate-npm",
     "url-test": "https://rhscvx-3000.csb.app/"
